@@ -4,7 +4,7 @@ Sou **Samuel Andrade**, estudante de Desenvolvimento de Sistemas de Informação
 
 - 🎓 Estudante de DSI na UFRPE
 - 💻 Trabalho principalmente com Python e TypeScript
-- 📊 Interesse em bancos de dados, otimização e análise de dados
+- 📊 Interesse em bancos de dados, otimização e desenvolvimento
 - 🤝 Gosto de projetos em equipe, do primeiro protótipo ao deploy
 
 ---
