@@ -64,7 +64,3 @@ Sou **Samuel Andrade**, estudante de Desenvolvimento de Sistemas de Informação
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-andrade-910921362/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.aas.2005@gmail.com)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelandradea&show_icons=true&theme=dark&hide_border=true)
