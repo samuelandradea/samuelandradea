@@ -7,7 +7,7 @@ Sou **Samuel Andrade**, estudante de Desenvolvimento de Sistemas de Informação
 - 📊 Interesse em bancos de dados, otimização e desenvolvimento
 - 🤝 Gosto de projetos em equipe, do primeiro protótipo ao deploy
 
-![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=samuelandradea&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelandradea&layout=compact&theme=dark&hide_border=true)
 
 ---
 
